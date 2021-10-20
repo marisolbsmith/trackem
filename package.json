@@ -1,0 +1,25 @@
+{
+  "name": "trackem",
+  "version": "1.0.0",
+  "description": "emp tracker using node js",
+  "main": "empTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marisolbsmith/trackem.git"
+  },
+  "author": "Marisol Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marisolbsmith/trackem/issues"
+  },
+  "homepage": "https://github.com/marisolbsmith/trackem#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql": "^2.18.1"
+  }
+}
